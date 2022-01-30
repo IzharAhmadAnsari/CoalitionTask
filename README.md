@@ -21,3 +21,7 @@ php artisan serve
 ````sh
 http://localhost:8000
 ````
+6. Create database in mysql and then after that run below command
+````sh
+php artisan migrate
+````
